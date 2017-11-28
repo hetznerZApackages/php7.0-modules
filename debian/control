@@ -1,0 +1,13 @@
+Source: php7.0-modules
+Section: web
+Priority: extra
+Maintainer: Shaun Bugler - Hetzner ZA <sb@hetzner.co.za>
+Build-Depends: debhelper (>= 8.0.0), chrpath
+Standards-Version: 3.9.3
+Homepage: http://www.ioncube.com
+
+Package: php7.0-modules
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}, php7.0-common
+Description: Various modules we need for php7
+ mailparse,ioncube and htscanner for php7
