@@ -1,42 +1,6 @@
-php7.0-modules (0.0.1-1+hetz1~exp7) jessie-hetz-experimental; urgency=low
+php7.0-modules (1.0.0-1+hetz1~exp1) jessie-hetz-experimental; urgency=low
 
-  * double or nothing 
+  * Inital release
 
- -- Shaun Bugler <sb@hetzner.co.za>  Tue, 28 Nov 2017 14:50:10 +0200
-
-php7.0-modules (0.0.1-1+hetz1~exp6) jessie-hetz-experimental; urgency=low
-
-  * money shot 
-
- -- Shaun Bugler <sb@hetzner.co.za>  Tue, 28 Nov 2017 14:45:09 +0200
-
-php7.0-modules (0.0.1-1+hetz1~exp5) jessie-hetz-experimental; urgency=low
-
-  * fifth 
-
- -- Shaun Bugler <sb@hetzner.co.za>  Tue, 28 Nov 2017 14:36:46 +0200
-
-php7.0-modules (0.0.1-1+hetz1~exp4) jessie-hetz-experimental; urgency=low
-
-  * fourth 
-
- -- Shaun Bugler <sb@hetzner.co.za>  Tue, 28 Nov 2017 14:34:39 +0200
-
-php7.0-modules (0.0.1-1+hetz1~exp3) jessie-hetz-experimental; urgency=low
-
-  * Third 
-
- -- Shaun Bugler <sb@hetzner.co.za>  Tue, 28 Nov 2017 14:25:27 +0200
-
-php7.0-modules (0.0.1-1+hetz1~exp2) jessie-hetz-experimental; urgency=low
-
-  * Second build 
-
- -- Shaun Bugler <sb@hetzner.co.za>  Tue, 28 Nov 2017 14:15:09 +0200
-
-php7.0-modules (0.0.1-1+hetz1~exp1) jessie-hetz-experimental; urgency=low
-
-  * Test build 
-
- -- Shaun Bugler <sb@hetzner.co.za>  Tue, 28 Nov 2017 14:07:10 +0200
+ -- Shaun Bugler <sb@hetzner.co.za>  Tue, 28 Nov 2017 14:53:44 +0200
 

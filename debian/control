@@ -9,5 +9,5 @@ Homepage: http://www.ioncube.com
 Package: php7.0-modules
 Architecture: amd64
 Depends: ${misc:Depends}, php7.0-common
-Description: Various modules we need for php7
+Description: PHP modules used by Hetzner
  mailparse,ioncube and htscanner for php7
