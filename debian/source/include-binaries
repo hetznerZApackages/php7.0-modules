@@ -1,3 +1,9 @@
 src/htscanner.so
-src/ioncube_loader_lin_7.0.so
-src/ioncube_loader_lin_7.0_ts.so
+ioncube/ioncube_loader_lin_5.6.so
+ioncube/ioncube_loader_lin_5.6_ts.so
+ioncube/ioncube_loader_lin_7.0.so
+ioncube/ioncube_loader_lin_7.0_ts.so
+ioncube/ioncube_loader_lin_7.1.so
+ioncube/ioncube_loader_lin_7.1_ts.so
+ioncube/ioncube_loader_lin_7.2.so
+ioncube/ioncube_loader_lin_7.2_ts.so
