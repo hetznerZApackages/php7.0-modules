@@ -1,3 +1,9 @@
+php7.0-modules (1.1.0-1+hetz1~exp4) jessie-hetz-experimental; urgency=low
+
+  * Shift custom built htscanner into its own directory 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 13:21:37 +0200
+
 php7.0-modules (1.1.0-1+hetz1~exp3) jessie-hetz-experimental; urgency=low
 
   * Correct binaries inclusion 
