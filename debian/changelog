@@ -1,3 +1,9 @@
+php7.0-modules (1.1.0-1+hetz1~exp8) jessie-hetz-experimental; urgency=low
+
+  * Fully path htscanner.so 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 13:37:46 +0200
+
 php7.0-modules (1.1.0-1+hetz1~exp7) jessie-hetz-experimental; urgency=low
 
   * Single src dir 
