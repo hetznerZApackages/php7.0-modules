@@ -3,4 +3,5 @@
 	dh $@
 
 override_dh_auto_install:
-	dh_install src/* usr/lib/php/20151012
+	dh_install src/20151012/* usr/lib/php/20151012
+	dh_install src/ioncube/* usr/lib/php/ioncube

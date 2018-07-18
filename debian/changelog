@@ -1,3 +1,9 @@
+php7.0-modules (1.1.0-1+hetz1~exp2) jessie-hetz-experimental; urgency=low
+
+  * Update ioncube loader to 10.2.2 and add versions for all php 7.x 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 13:13:32 +0200
+
 php7.0-modules (1.1.0-1+hetz1~exp1) jessie-hetz-experimental; urgency=low
 
   * Removing mailparse as its now provided by sury.org
