@@ -10,4 +10,4 @@ Package: php7.0-modules
 Architecture: amd64
 Depends: ${misc:Depends}, php7.0-common
 Description: PHP modules used by Hetzner
- mailparse,ioncube and htscanner for php7
+  ioncube and htscanner for php7
