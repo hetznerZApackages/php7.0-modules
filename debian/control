@@ -4,10 +4,10 @@ Priority: extra
 Maintainer: Shaun Bugler - Hetzner ZA <sb@hetzner.co.za>
 Build-Depends: debhelper (>= 9.0.0)
 Standards-Version: 3.9.3
-Homepage: http://www.ioncube.com
+Homepage: http://www.hetzner.co.za
 
 Package: php7.0-modules
 Architecture: amd64
 Depends: ${misc:Depends}, php7.0-common
 Description: PHP modules used by Hetzner
-  ioncube and htscanner for php7
+  htscanner for php7

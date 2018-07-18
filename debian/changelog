@@ -1,3 +1,9 @@
+php7.0-modules (1.1.0-1+hetz1~exp11) jessie-hetz-experimental; urgency=low
+
+  * Shift Ioncube Loader out as it has its own package 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 14:25:16 +0200
+
 php7.0-modules (1.1.0-1+hetz1~exp10) jessie-hetz-experimental; urgency=low
 
   * Try simplify 
