@@ -1,3 +1,9 @@
+php7.0-modules (1.1.0-1+hetz1) jessie-hetz; urgency=low
+
+  * Released 1.1.0-1+hetz1~exp11 as 1.1.0-1+hetz1
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Thu, 19 Jul 2018 13:17:42 +0200
+
 php7.0-modules (1.1.0-1+hetz1~exp11) jessie-hetz-experimental; urgency=low
 
   * Shift Ioncube Loader out as it has its own package 
