@@ -1,3 +1,9 @@
+php7.0-modules (1.1.0-1+deb9hetz1) stretch-hetz; urgency=low
+
+  * Released 1.1.0-1+deb9hetz1~exp1 as 1.1.0-1+deb9hetz1
+
+ -- Walter Kleynscheldt <walter.kleynscheldt@hetzner.co.za>  Thu, 18 Jul 2019 11:32:04 +0200
+
 php7.0-modules (1.1.0-1+deb9hetz1~exp1) stretch-hetz-experimental; urgency=low
 
   * Initial Stretch version
